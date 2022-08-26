@@ -1,0 +1,49 @@
+{
+	"extends": "English",
+	"dictionaries": {
+		"item": {
+			"Pemmican": [
+				"pemmican",
+				"A ball of dried meat, animal fat, and fruit or berries. Stores incredibly well and packs many calories, the ultimate survival food!"
+			],
+			"modFrowardFoodsSalt": [
+				"Salt",
+				"A crystalline white powder beloved for its distinct taste."
+			],
+			"modFrowardFoodsFruitBread": [
+				"fruit bread",
+				"Fragrant and soft, this bread has fruit baked in."
+			],
+			"modFrowardFoodsFruitSauce": [
+				"fruit sauce",
+				"Thick gooped fruity goodness."
+			],
+			"modFrowardFoodsBread": [
+				"bread",
+				"While not as lasting as hardtack this loaf of bread is more nurishing."
+			],
+			"modFrowardFoodsMeatSoup": [
+				"meat soup",
+				"A thin soup made from boiling meat. Comes with extra chunks!"
+			],
+			"modFrowardFoodsSalad": [
+				"salad",
+				"Cut vegtables arranged neatly on a plate."
+			],
+			"modFrowardFoodsHeartySoup": [
+				"hearty soup",
+				"A fine and filling soup seasoned with seawater. The skill involved in the creation has rendered the liquid hydrating!"
+			],
+			"modFrowardFoodsJerky": [
+				"jerky",
+				"Salted and dried meat, edible but super dry!"
+			]
+		},
+		"itemGroup": {
+			"modFrowardFoodsGrainGroup": [
+				"grain",
+				"grains"
+			]
+		}
+	}
+}

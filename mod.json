@@ -1,0 +1,12 @@
+{
+	"name": "Froward Foods",
+	"description": "Expanded food options",
+	"version": "1.0.1",
+	"author": "Poragon",
+	"file": "out/FrowardFoods",
+	"waywardVersion": "2.12.0-beta",
+	"allowUnlockingMilestones": true,
+	"languages": [
+		"lang/english"
+	]
+}

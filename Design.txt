@@ -1,0 +1,10 @@
+Each food item should have a role and use. To this end each category has a 1.5x bonus, rounded, added to their consume stats;
+    Fruit : Health / Low max decay
+    Meat : Stamina / Low max decay
+    Grain : Hunger / High max decay
+    Vegtables : Thirst / Mid max decay
+
+Foods which features two or more of these groups prominently should inherit all bonuses from the respective ingredients, the best decay category, and should also be harder to craft.
+These foods will be put in the ComboFoods category.
+
+Base stats for a food item should be taken from the vanilla stats of the ingredients with value added based on the complexity of the recipe.
